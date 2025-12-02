@@ -114,9 +114,9 @@ Click on each topic to view details and video explanations. 🎥
 ## 🔗 Connect with Me 🌎
 Let's stay connected! Follow me on social media to get updates, tutorials, and tips:
 
-📌 [YouTube](https://www.youtube.com/@thisisinfiniteloop) 🎥 - C++ Tutorials & More!  
-📌 [Instagram](https://www.instagram.com/abdullah.infiniteloop/) 📸 - Behind the scenes & coding tips!  
-📌 [TikTok](https://www.tiktok.com/@abdullah.infiniteloop) 🎭 - Fun & engaging coding content!  
+📌 [YouTube](https://www.youtube.com/@eazypizycoders) 🎥 - C++ Tutorials & More!  
+📌 [Instagram](https://www.instagram.com/eazypizycoders/) 📸 - Behind the scenes & coding tips!  
+📌 [TikTok](https://www.tiktok.com/@eazypizycoders) 🎭 - Fun & engaging coding content!  
 
 ---
 
