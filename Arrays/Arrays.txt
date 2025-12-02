@@ -1,0 +1,46 @@
+
+
+https://excalidraw.com/#json=Y6rXeCaCWeJDMyueLRfR0,-sjaLtTRmAox35bU-GOCtQ
+
+link : where we cover diagram
+
+
+
+array => datastucture 
+varaible 
+
+int a=10;
+
+classroom = 50 student 
+int student 
+
+arrays vs simple varaible
+
+student 10;
+
+int student1=90;
+int student2=100;
+int student3=20;
+
+int Student[10];
+int Student1[]
+
+
+
+
+arrays 2 static or dynamic 
+static => fixed 
+dynamic =>flxible
+
+static 2 main types
+
+1- 1D arrays (one dimention arrays)
+2- 2D,3D arrays(multi dimention arrays)
+
+
+
+
+
+
+
+

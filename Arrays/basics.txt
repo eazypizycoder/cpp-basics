@@ -1,0 +1,12 @@
+Framer Motion	Smooth Animations
+React Router	Page Navigation
+React Icons	Icons for UI
+Headless UI	Advanced UI Components
+React Query	Better API Management
+Axios	API Calls
+Zustand	Lightweight State Management
+React Helmet	SEO Optimization
+GSAP	Advanced Animations
+EmailJS	Contact Form without Backend
+React Typing Effect	Typing Animations
+Yarn	Faster Package Management
